@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Milena\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Milena\\.nuget\\packages"
+    ]
+  }
+}
